@@ -18,6 +18,7 @@ from bs4 import BeautifulSoup
 # end up missing most of the results.
 # Param st_items can be either a list of zipcode strings, or a single zipcode
 # string.
+
 st = ["21231"]
 # st = ["21231", "Federal Hill Baltimore", "Canton Baltimore"]
 
